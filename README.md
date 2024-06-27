@@ -1,5 +1,5 @@
 # Juego del numero secreto
-Este es un sencillo juego desarrollado con HTML, CSS y JavaScript vanilla. El objetivo es adivinar un número secreto a través de pistas proporcionadas después de cada intento. Tienes un número limitado de intentos para acertar el número correcto.
+Este es un sencillo juego desarrollado con HTML, CSS y JavaScript . El objetivo es adivinar un número secreto a través de pistas proporcionadas después de cada intento. Tienes un número limitado de intentos para acertar el número correcto.
 
 ## Imagenes del proyecto
 
